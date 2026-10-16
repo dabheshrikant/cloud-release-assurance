@@ -1,0 +1,6 @@
+{
+  "artifact_verified": true,
+  "deployment_ready": true,
+  "smoke_tests": true,
+  "integration_tests": false
+}
